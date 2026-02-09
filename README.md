@@ -2,11 +2,8 @@
 
 
 ## 🛠 Technical Skills
-
-**Languages:** Python, SQL  
-**Python Libraries:** NumPy, Pandas, Matplotlib  
-**Databases:** MySQL  
-**Areas of Interest:** Data Structures, Machine Learning, Deep Learning  
+Python, NumPy, Pandas, Matplotlib, SQL, MySQL  
+Data Structures, Machine Learning, Deep Learning  
 **Tools:** GitHub, VS Code, Jupyter Notebook, Google Colab  
 **OS:** Windows  
 **Other:** MS Office, Problem Solving, Logical Thinking, Self-Learning
